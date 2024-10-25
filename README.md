@@ -4,7 +4,7 @@ This is repository of the project "Equivariant Transformer Architecture Based on
 
 This project considers and experiments with the
 [**Geometric Algebra Transformer**](https://arxiv.org/abs/2305.18415) by
-[Johann Brehmer](mailto:jbrehmer@qti.qualcomm.com), Pim de Haan, Sönke Behrends, and Taco Cohen,
+Johann Brehmer, Pim de Haan, Sönke Behrends, and Taco Cohen,
 published at NeurIPS 2023.
 
 ![GATr = geometric algebra representations + equivariant layers + Transformer architecture](img/gatr.png)
